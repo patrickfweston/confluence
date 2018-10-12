@@ -1,0 +1,11 @@
+.ticket-summary .jira-macro-table-underline-pdfexport {
+  display: none !important;
+}
+
+.ticket-summary tr {
+  border: 0 !important;
+}
+
+.ticket-summary td {
+  padding: 0 !important;
+}
